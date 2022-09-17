@@ -61,7 +61,6 @@ Bakery Shop WordPress Theme is distributed under the terms of the GPLv2 or later
 * Screenshot change.
 * Slider Image size change.
 
-
 1.0.3
 * Fixed issue mentioned in trac.
 
